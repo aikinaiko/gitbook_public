@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [In English](README.md)
+* [In Russian](in-russian.md)
