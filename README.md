@@ -1,15 +1,11 @@
-# 33 books recommended by Jack Edwards
+---
+coverY: 0
+---
 
-{% embed url="https://www.youtube.com/watch?v=eCH_U3LE-BY" %}
+# Welcome!
 
-HERE IS MY NEW UPDATE!!!!
+{% embed url="https://www.youtube.com/watch?v=JfVOs4VSpmA" %}
 
-Jack Edwards is the author of 'The Uni-Verse: The Ultimate University Survival Guide' (HarperCollins, 2020) which seeks to make university less intimidating for future students. He is also a Youtuber and social media creator, talking about literature with reference to popular culture.
+## Welcome aboard!
 
-![](.gitbook/assets/image.png)
-
-
-
-## Crime and Punishment by Fyodor Dostoyevsky
-
-####
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
