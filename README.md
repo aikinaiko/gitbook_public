@@ -1,43 +1,13 @@
-# Page 1
+# 33 books recommended by Jack Edwards
 
-now I need to make changes in the Gitbook and sync it with GitHub
+{% embed url="https://www.youtube.com/watch?v=eCH_U3LE-BY" %}
 
-It's not working yet
+Jack Edwards is the author of 'The Uni-Verse: The Ultimate University Survival Guide' (HarperCollins, 2020) which seeks to make university less intimidating for future students. He is also a Youtuber and social media creator, talking about literature with reference to popular culture.
 
-'HHHOOOOOW!!
-
-Hmmm, not yet in Safari!
+![](.gitbook/assets/image.png)
 
 
 
-## Typing Manually
+## Crime and Punishment by Fyodor Dostoyevsky
 
-djkewhdhkj
-
-edhkuwhksd
-
-## Typing Manually
-
-**generate a** _kubeconfig_ **file**\
-\
-In GitBook: \[\*\*my bold link with \*\*\_\*\*italic\*\*\_\*\* word in it\*\*]\(link\_href)\
-And in VSCode \*\*\[my bold link with \_italic\_ word in it]\(link\_href)\*\*\
-
-
-_**generate** kubeconfig_ **file** _-\*\*kubeconfig\*\*\__
-
-&#x20;**generate a **_**kubeconfig**_** file**
-
-****
-
-**bold** _\*italics\*_ _italics_ **bold**
-
-****
-
-_hello_
-
-_**hello**_&#x20;
-
-****
-
-_\_\*\*hello\*\*\__
+####
