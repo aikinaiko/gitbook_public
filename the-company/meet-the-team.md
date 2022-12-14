@@ -10,6 +10,8 @@ coverY: 0
 **Good to know:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
 {% endhint %}
 
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vTepZe1fRVz-qKfBbanFWqOd8UwELxN8g5plpGO9Uo5POWQ6FzeChrvw3e5QCY5jBqgdy5fih_PyGVA/pubhtml/?q=220311" %}
+
 ## Esme DeWalt
 
 👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
