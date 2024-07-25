@@ -6,6 +6,20 @@
 
 HERE IS MY NEW UPDATE!!!!
 
+
+
+
+
+### doing some research?
+
+
+
+Need to follow up!
+
+{% hint style="info" %}
+Done!
+{% endhint %}
+
 Jack Edwards is the author of 'The Uni-Verse: The Ultimate University Survival Guide' (HarperCollins, 2020) which seeks to make university less intimidating for future students. He is also a Youtuber and social media creator, talking about literature with reference to popular culture.
 
 ![](.gitbook/assets/image.png)
